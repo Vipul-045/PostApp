@@ -1,4 +1,3 @@
-/* Container styling */
 .container {
   max-width: 800px;
   margin: 0 auto;
@@ -6,7 +5,6 @@
   font-family: Arial, sans-serif;
 }
 
-/* Title styling */
 .title {
   text-align: center;
   font-size: 2rem;
@@ -14,14 +12,12 @@
   color: #e1d9d9;
 }
 
-/* Button container */
 .button-container {
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
 }
 
-/* Add Post button */
 .add-post-button {
   padding: 10px 20px;
   background-color: #007bff;
@@ -36,21 +32,18 @@
   background-color: #0056b3;
 }
 
-/* Loading text */
 .loading-text {
   text-align: center;
   color: #888;
   font-size: 1rem;
 }
 
-/* Posts container */
 .posts {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-/* Individual post card */
 .post-card {
   background-color: #fff;
   border: 1px solid #ddd;
@@ -59,27 +52,23 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Post title */
 .post-title {
   font-size: 1.5rem;
   color: #1f1e1e;
   margin-bottom: 10px;
 }
 
-/* Post body */
 .post-body {
   font-size: 1rem;
   color: #555;
   margin-bottom: 15px;
 }
 
-/* Post actions container */
 .post-actions {
   display: flex;
   justify-content: space-between;
 }
 
-/* Like button */
 .like-button {
   padding: 8px 15px;
   background-color: #f0f0f0;
